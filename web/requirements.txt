@@ -1,4 +1,4 @@
-django==4.2.3
+django==4.2.20
 django[argon2]==4.2.3
 django[bcrypt]==4.2.3
 django-crispy-forms==2.0
@@ -13,8 +13,8 @@ drf-nested-routers==0.93.4
 
 arrow==1.2.3
 crispy-bootstrap3==2022.1
-gitpython==3.1.32
+gitpython==3.1.41
 nested-lookup==0.2.25
 psycopg2-binary==2.9.6
 gunicorn==22.0.0
-sentry-sdk==2.1.1
+sentry-sdk==2.8.0
