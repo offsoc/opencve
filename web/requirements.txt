@@ -1,4 +1,4 @@
-django==5.1.6
+django==5.1.7
 django[argon2]==5.1.6
 django[bcrypt]==5.1.6
 django-crispy-forms==2.3
@@ -18,5 +18,5 @@ crispy-bootstrap3==2022.1
 nested-lookup==0.2.25
 psycopg2-binary==2.9.10
 gunicorn==23.0.0
-sentry-sdk==2.19.2
+sentry-sdk==2.22.0
 pyparsing==3.2.1
